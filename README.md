@@ -92,7 +92,7 @@ Best Score: 62.12%
 ### 4.Extra Trees Classifier
 ```python
 ExtraTreesClassifier(n_estimators=300, min_samples_split=10, ...)
-Score: (check output)
+Score: 82.20%
 ```
 All models were trained using GridSearchCV with `StratifiedKFold(n_splits=5)` for reliable cross-validation.
 
